@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning MERN Stack
+👯 I’m looking to collaborate on <b>open source projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning MERN Stack
 
 
 # 💻 Tech Stack:
